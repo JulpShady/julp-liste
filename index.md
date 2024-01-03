@@ -110,3 +110,19 @@ Liste de mes outils de base pour travailler :
       </div>
     </div>
   </article> 
+
+# Pour ma documentation et mes mémos
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Zettlr.png">
+    </div>
+    <div>
+      <h2>Zettlr</h2>
+      <p>Zettlr a été créé par un chercheur pour gérer et organiser la prise de notes, la rédaction et l’édition.</p>
+      <div>
+        <a href="https://framalibre.org/notices/zettlr.html">Vers la notice Framalibre</a>
+        <a href="https://www.zettlr.com/">Vers le site</a>
+      </div>
+    </div>
+  </article> 

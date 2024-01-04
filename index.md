@@ -126,3 +126,19 @@ Liste de mes outils de base pour travailler :
       </div>
     </div>
   </article> 
+
+# Éditeur de texte : 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Notepad++.png">
+    </div>
+    <div>
+      <h2>Notepad++</h2>
+      <p>Notepad++ est un éditeur de texte et de code pour Windows</p>
+      <div>
+        <a href="https://framalibre.org/notices/notepad.html">Vers la notice Framalibre</a>
+        <a href="https://notepad-plus-plus.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 

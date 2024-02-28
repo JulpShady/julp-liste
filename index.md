@@ -127,6 +127,22 @@ Liste de mes outils de base pour travailler :
     </div>
   </article> 
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Kate.png">
+    </div>
+    <div>
+      <h2>Kate</h2>
+      <p>C'est un éditeur de texte simple mais puissant, multi-documents et polyvalent.</p>
+      <div>
+        <a href="https://framalibre.org/notices/kate.html">Vers la notice Framalibre</a>
+        <a href="https://kate-editor.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 # Éditeur de texte : 
 
   <article class="framalibre-notice">

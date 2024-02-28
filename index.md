@@ -25,7 +25,7 @@ Liste de mes outils de base pour travailler :
 
 
 
-# Gestionnaire de Mots de passe [Obligatoire]
+# Gestionnaire de Mots de passe **Obligatoire**
 
 
   <article class="framalibre-notice">
@@ -155,6 +155,23 @@ Liste de mes outils de base pour travailler :
       <div>
         <a href="https://framalibre.org/notices/notepad.html">Vers la notice Framalibre</a>
         <a href="https://notepad-plus-plus.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+# Pour les captures d'écran 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Greenshot.png">
+    </div>
+    <div>
+      <h2>Greenshot</h2>
+      <p>L'application la plus efficace que je connaisse pour faire des captures d'écrans et les éditer ensuite.</p>
+      <div>
+        <a href="https://framalibre.org/notices/greenshot.html">Vers la notice Framalibre</a>
+        <a href="http://getgreenshot.org/">Vers le site</a>
       </div>
     </div>
   </article> 
